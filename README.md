@@ -1,11 +1,23 @@
-# Object-Oriented Programming Practice
+# OOP UML Diagrams
 
-A collection of examples and exercises to practice object-oriented programming (OOP) concepts in Java.
+A collection of **UML class diagrams** created to practice **Object-Oriented Programming (OOP)** concepts such as inheritance, association, aggregation, and composition.
+
+These diagrams were built without code, focusing purely on **object relationships and system design structure**.
+
+---
+
+## Includes
+- Elevator System UML  
+- Library Management UML  
+- School System UML  
+- Restaurant Order UML  
+*(and other practice models)*
 
 ---
 
 ## Technologies
-`Java`
+`UML`  
+`OOP Modeling`
 
 ---
 
